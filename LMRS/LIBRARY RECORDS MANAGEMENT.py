@@ -7,8 +7,8 @@ import datetime
 mydb = c.connect(
     host="localhost",
     user="root",
-    password="ALLhappYtogether07*",
-    database="library"
+    password="",
+    database=""
 )
 
 # Functions
